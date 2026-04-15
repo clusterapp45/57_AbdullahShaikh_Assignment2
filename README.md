@@ -1,4 +1,4 @@
-# Assignment Title
+# Sentiment Analysis on CDM Tournament (CODM)
 
 ## (1) Problem Statement
 The problem is to perform sentiment analysis on tweets related to the CDM tournament in Call of Duty Mobile. The goal is to classify tweets into positive, neutral, and negative sentiments using machine learning techniques.
@@ -48,7 +48,7 @@ python main.py
 
 The project successfully demonstrates sentiment analysis using machine learning techniques. Logistic Regression performed better than Naive Bayes and SVM due to better generalization on the dataset.
 
-##(8) Student's details
+## (8) Student's details
 Name: Abdullah Shaikh
 Roll No: 57
 Class: TE (AI & DS)
